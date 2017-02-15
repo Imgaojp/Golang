@@ -1,0 +1,7 @@
+/.gradle/*
+/.nb-gradle/*
+/build/
+.idea/
+classpy.sublime-workspace
+classpy.iml
+.DS_Store
